@@ -1,0 +1,3 @@
+# Medical Information System
+
+The MEDINFO (MEDical INFOrmation) system is a general purpose computer-based information storage, retrieval, and analysis system. It is designed for a time sharing, on-line computer system for the rapid and easy creation, maintenance, and analysis of general data files and the Medical Information is to provide all the information about medicines, expiry date and Bills etc.
